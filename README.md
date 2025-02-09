@@ -20,7 +20,7 @@
 
 ### Languages
 
-![typescript](https://img.shields.io/badge/typescript-black?style=
+![typescript](https://img.shields.io/badge/typescript-black?style=)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
