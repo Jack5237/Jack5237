@@ -2,8 +2,7 @@
 
 **`Full-Stack Dev,`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
-
+I'm a full-stack developer and tech enthusiast, always looking for new challenges and ways to make an impact on the digital world. As a crazy Scotsman, I code from the ground up—designing, developing, and deploying everything by myself. Want to get in contact? Click here: https://portfolio.
    <p align="left">
       <a href="https://github.com/Jack5237?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jack5237?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
