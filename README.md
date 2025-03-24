@@ -43,8 +43,8 @@ I'm a full-stack developer and tech enthusiast, always looking for new challenge
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jack5237&hide_border=true&theme=dark" />
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack5237&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jack5237&theme=dark)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Jack5237&theme=onedark&column=-1)
 
 
