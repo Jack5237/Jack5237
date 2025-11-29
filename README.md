@@ -2,7 +2,7 @@
 
 **`Full-Stack Dev,`**
 
-I'm a full-stack developer and tech enthusiast, always looking for new challenges and ways to make an impact on the digital world. As a crazy Scotsman, I code from the ground up—designing, developing, and deploying everything by myself. Want to get in contact? Click here: https://portfolio.
+I'm a full-stack developer and tech enthusiast, always looking for new challenges and ways to make an impact on the digital world. As a crazy Scotsman, I code from the ground up—designing, developing, and deploying everything by myself. Want to get in contact? Click here: [https://portfolio.](https://www.jacksdevfolio.com)
    <p align="left">
       <a href="https://github.com/Jack5237?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jack5237?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
